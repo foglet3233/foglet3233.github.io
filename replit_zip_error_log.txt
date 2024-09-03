@@ -1,0 +1,6 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/nodejs-20","time":"2024-09-03T17:31:41Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/replit","time":"2024-09-03T17:31:41Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/replit/modules/web","time":"2024-09-03T17:31:41Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file .cache/yarn/v6/npm-pbf-3.3.0-1790f3d99118333cc7f498de816028a346ef367f-integrity/node_modules/pbf/.bin/pbf","time":"2024-09-03T17:31:45Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/.bin/pbf","time":"2024-09-03T17:31:48Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file node_modules/mapillary-js/node_modules/.bin/pbf","time":"2024-09-03T17:31:49Z"}
